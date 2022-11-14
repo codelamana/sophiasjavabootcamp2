@@ -1,4 +1,4 @@
-package de.jakob;
+package de.jakob.polynome;
 
 public class Polynom implements Funktion {
 
